@@ -1,11 +1,4 @@
-## Practice-Hibernate-and-JPA
-This repository includes the Hibernate and JPA basics learned through various Lectures.
 
-### Prerequites
-- Java 8
-- Eclipse IDE
-- GIT
+### Hibernate and JPA Tutorial with Telusko
+Through these lectures, I learned multiple features of Hibernate and basic implementations of JPA. The lectures are taken from [Telusko](https://www.youtube.com/watch?v=JR7-EdxDSf0&t=1s).
 
-### Lectures:
-1. [Lectures from Telusko](https://www.youtube.com/watch?v=JR7-EdxDSf0&t=1s) 
-2. [Lectures from In28minutes](https://www.youtube.com/watch?v=MaI0_XdpdP8).
