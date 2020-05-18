@@ -5,6 +5,7 @@ This repository includes the Hibernate and JPA basics learned through various Tu
 - Java 8
 - Eclipse IDE
 - GIT
+- Maven Plugin
 
 ### Tutorials:
 1. [Hibernate and JPA Tutorial from Telusko](https://github.com/DhwaniSondhi/Practice-Hibernate-and-JPA/tree/master/Hibernate%20and%20JPA%20Tutorial%20with%20Telusko) 
