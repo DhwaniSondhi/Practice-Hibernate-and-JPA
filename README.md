@@ -1,7 +1,7 @@
 ## Practice-Hibernate-and-JPA
 This repository includes the Hibernate and JPA basics learned through various Tutorials.
 
-### Prerequites
+### Prerequisites
 - Java 8
 - Eclipse IDE
 - GIT
